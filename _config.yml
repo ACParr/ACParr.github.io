@@ -12,9 +12,9 @@ title                    : "Ashley C Parr/Academic Page"
 title_separator          : "-"
 name                     : &name "Ashley Clare Parr"
 description              : &description 
-url                      : https://ashley-clare-parr.github.io
+url                      : https://ACParr.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ashley-clare-parr.github.io"
+repository               : "ACParr.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : "AshCParr"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
